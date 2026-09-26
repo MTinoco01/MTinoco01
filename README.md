@@ -127,3 +127,6 @@ Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, se
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:8B0000,100:0D0D0D&height=120&section=footer" width="100%"/>
+
+<!-- commit de teste -->
+
