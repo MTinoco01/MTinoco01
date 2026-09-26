@@ -81,8 +81,8 @@ Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, se
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-ti-noco.vercel.app/api?username=MTinoco01&show_icons=true&include_all_commits=true&theme=maroon&hide_border=true&border_radius=10&cache_seconds=86400"/>
-  <img height="165em" src="https://github-readme-stats-ti-noco.vercel.app/api/top-langs/?username=MTinoco01&layout=compact&theme=maroon&hide_border=true&border_radius=10&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats-ti-noco.vercel.app/api?username=MTinoco01&show_icons=true&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400&title_color=ff0000&icon_color=ff0000&text_color=c9c9c9&bg_color=0d0d0d&border_color=2e2e2e"/>
+  <img height="165em" src="https://github-readme-stats-ti-noco.vercel.app/api/top-langs/?username=MTinoco01&layout=compact&hide_border=true&border_radius=10&cache_seconds=86400&title_color=ff0000&text_color=c9c9c9&bg_color=0d0d0d&border_color=2e2e2e"/>
 </p>
 
 <p align="center">
