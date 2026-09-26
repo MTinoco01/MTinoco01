@@ -89,10 +89,6 @@ Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, se
   <img src="https://streak-stats.demolab.com/?user=MTinoco01&hide_border=true&border_radius=10&background=0D0D0D&border=2E2E2E&ring=ff0000&fire=ff0000&currStreakNum=FFFFFF&sideNums=C9C9C9&currStreakLabel=ff0000&sideLabels=C9C9C9&dates=8B8B8B" alt="streak stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MTinoco01&theme=dark_dimmed&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-</p>
-
 ### 🐍 Snake do meu grid de contribuições
 
 <picture>
