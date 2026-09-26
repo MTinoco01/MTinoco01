@@ -13,7 +13,6 @@
 <img src="https://komarev.com/ghpvc/?username=MTinoco01&color=8B0000&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
 <img src="https://img.shields.io/badge/UFGD-4%C2%BA%20Semestre-1A1A1A?style=for-the-badge" alt="UFGD" />
 <img src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-8B0000?style=for-the-badge" alt="Engenharia da Computação" />
-<img src="https://img.shields.io/badge/Rob%C3%B3tica-SSL--EL-1A1A1A?style=for-the-badge" alt="Robótica SSL-EL" />
 
 </div>
 
