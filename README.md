@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&duration=4000&pause=100000&repeat=false&color=E50914&center=true&vCenter=true&width=420&height=100&lines=TINOCO" alt="Typing SVG" />
 
 <a href="https://github.com/MTinoco01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&width=750&height=50&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFGD;L%C3%ADder+de+Hardware+de+Rob%C3%B3tica+SSL-EL;C%2B%2B%2C+Python%2C+JavaScript+%26+Vue.js;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&width=750&height=50&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFGD;L%C3%ADder+de+Hardware+de+Rob%C3%B3tica;C%2B%2B%2C+Python%2C+JavaScript+%26+Vue.js;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,7 +36,7 @@ Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, se
 <br/>
 
 ```txt
-🔭 Trabalhando em .......... robôs omnidirecionais para a RoboCup SSL-EL
+🔭 Trabalhando em .......... robôs omnidirecionais para a RoboCore
 🌱 Aprendendo ............... sistemas embarcados avançados & Vue.js
 👯 Aberto a colaborar em .... projetos de robótica, hardware e software
 💬 Me pergunte sobre ........ C/C++, Python, ESP32, eletrônica digital
@@ -97,7 +97,6 @@ Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, se
   <img alt="snake animation eating my GitHub contribution grid" src="https://raw.githubusercontent.com/MTinoco01/MTinoco01/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-> A animação acima é gerada automaticamente todos os dias por uma GitHub Action 🤖 (veja `.github/workflows/snake.yml`). Ela aparece assim que o primeiro workflow rodar na branch `main`.
 
 <br/>
 
@@ -127,6 +126,3 @@ Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, se
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:8B0000,100:0D0D0D&height=120&section=footer" width="100%"/>
-
-<!-- commit de teste -->
-
