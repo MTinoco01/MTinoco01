@@ -27,7 +27,7 @@
 Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, seja no código, seja com um ferro de solda na mão. 🔧💻
 
 - 🎓 Estou no **4º semestre de Engenharia da Computação** na **UFGD** (Universidade Federal da Grande Dourados);
-- ⚡ Sou **Líder de Hardware** da equipe de robótica da UFGD, atuando no desenvolvimento de **robôs omnidirecionais** para a categoria **SSL-EL da RoboCup** — da eletrônica embarcada à integração com microcontroladores **ESP32**;
+- ⚡ Sou **Líder de Hardware** da equipe de robótica da UFGD, atuando no desenvolvimento de **robôs omnidirecionais** para a categoria **seguidor de linha Ironcup** eletrônica embarcada à integração com microcontroladores **ESP32**;
 - 💼 Faço parte da **Empresa Júnior Apuama**, colocando a mão na massa em projetos reais;
 - 🤝 Também atuo como **voluntário**, desenvolvendo projetos e ajudando outras pessoas a aprender;
 - 🧠 Gosto de aprender coisas novas e encarar desafios técnicos, do hardware ao software;
