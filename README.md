@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&duration=4000&pause=100000&repeat=false&color=E50914&center=true&vCenter=true&width=420&height=100&lines=TINOCO" alt="Typing SVG" />
 
 <a href="https://github.com/MTinoco01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&width=750&height=50&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFGD;L%C3%ADder+de+Hardware+de+Rob%C3%B3tica;C%2B%2B%2C+Python%2C+JavaScript+%26+Vue.js;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&width=750&height=50&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFGD;L%C3%ADder+de+Hardware+de+Rob%C3%B3tica;Backend+Development;C%2B%2B%2C+Java%2C+Python%2C+JavaScript+%26+Vue.js;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,6 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=MTinoco01&color=8B0000&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
 <img src="https://img.shields.io/badge/UFGD-4%C2%BA%20Semestre-1A1A1A?style=for-the-badge" alt="UFGD" />
 <img src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-8B0000?style=for-the-badge" alt="Engenharia da Computação" />
+<img src="https://img.shields.io/badge/Backend%20Development-1A1A1A?style=for-the-badge" alt="Backend Development" />
 
 </div>
 
@@ -30,8 +31,9 @@ Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, se
 - ⚡ Sou **Líder de Hardware** da equipe de robótica da UFGD, atuando no desenvolvimento de **robôs omnidirecionais** para a categoria **seguidor de linha Ironcup** eletrônica embarcada à integração com microcontroladores **ESP32**;
 - 💼 Faço parte da **Empresa Júnior Apuama**, colocando a mão na massa em projetos reais;
 - 🤝 Também atuo como **voluntário**, desenvolvendo projetos e ajudando outras pessoas a aprender;
+- 🖥️ Desenvolvo também no **backend**, construindo APIs e aplicações com **Java**, Python e banco de dados;
 - 🧠 Gosto de aprender coisas novas e encarar desafios técnicos, do hardware ao software;
-- 🌱 No momento, aprofundando meus estudos em sistemas embarcados, Vue.js e modelagem de banco de dados.
+- 🌱 No momento, aprofundando meus estudos em sistemas embarcados (**ESP32 & STM32**), backend com Java, Vue.js e modelagem de banco de dados.
 
 <br/>
 
@@ -39,7 +41,7 @@ Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, se
 🔭 Trabalhando em .......... robôs omnidirecionais para a RoboCore
 🌱 Aprendendo ............... sistemas embarcados avançados & Vue.js
 👯 Aberto a colaborar em .... projetos de robótica, hardware e software
-💬 Me pergunte sobre ........ C/C++, Python, ESP32, eletrônica digital
+💬 Me pergunte sobre ........ C/C++, Java, Python, ESP32, STM32
 ⚡ Fato curioso ............. já perdi a conta de quantos ESP32 eu já queimei 😅
 ```
 
@@ -60,20 +62,23 @@ Sou um estudante **curioso, esforçado e apaixonado por resolver problemas**, se
   <img src="https://img.shields.io/badge/C-%23E50000.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%23E50000.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-%23E50000.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-%23E50000.svg?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23E50000.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23E50000.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-%23000000.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%23E50000.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-%23000000.svg?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23E50000.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23E50000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-%23E50000.svg?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-%23000000.svg?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raylib-%23E50000.svg?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sistemas%20Digitais-%23000000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-%23000000.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-%23E50000.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raylib-%23000000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sistemas%20Digitais-%23E50000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Development-%23000000.svg?style=for-the-badge&logoColor=white" />
 </p>
 
 <br/>
