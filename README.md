@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:1A1A1A&height=130&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:1A1A1A&height=100&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=70&duration=4000&pause=100000&repeat=false&color=E50914&center=true&vCenter=true&width=420&height=100&lines=TINOCO" alt="TINOCO" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=64&duration=4000&pause=100000&repeat=false&color=E50914&center=true&vCenter=true&width=520&height=90&lines=TINOCO" alt="TINOCO" />
 
 <a href="https://github.com/MTinoco01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=750&height=50&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFGD;L%C3%ADder+de+Hardware+de+Rob%C3%B3tica;Backend+Development;C%2B%2B%2C+Java%2C+Python%2C+JavaScript+%26+Vue.js;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Estudante de Engenharia da Computação na UFGD · Líder de Hardware de Robótica · Backend Development" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C9C9C9&center=true&vCenter=true&width=750&height=50&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFGD;L%C3%ADder+de+Hardware+de+Rob%C3%B3tica;Backend+Development;C%2B%2B%2C+Java%2C+Python%2C+JavaScript+%26+Vue.js;Sempre+aprendendo+algo+novo+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=750&height=50&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+UFGD;L%C3%ADder+de+Hardware+de+Rob%C3%B3tica;Backend+Development;C%2B%2B%2C+Java%2C+Python%2C+JavaScript+%26+Vue.js;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Estudante de Engenharia da Computação na UFGD · Líder de Hardware de Robótica · Backend Development" />
+  </picture>
 </a>
 
 </div>
